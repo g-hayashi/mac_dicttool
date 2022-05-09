@@ -4,7 +4,7 @@ mac dictionary tool
 ## Overview
 
 これはmacOSからWindowsへのユーザー辞書の移行を支援するツールです。
- Windowｓからユーザー辞書をエクスポートしてWindowsにインポートするとき、下記の課題があります。
+macOSからユーザー辞書をエクスポートし、Windowsにインポートしたいとき、下記の課題があります。
 
 ### Google 日本語入力
 
