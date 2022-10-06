@@ -58,7 +58,7 @@ func main() {
 					shortcut = k.(string)
 				}
 			}
-			line := fmt.Sprintf("%s\t%s\t%s\t", phrase, shortcut, "名詞")
+			line := fmt.Sprintf("%s\t%s\t%s\t", shortcut, phrase, "名詞")
 			fmt.Fprintln(writer, line)
 		}
 		writer.Flush()
